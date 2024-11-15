@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter11290-7" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.15875313"/>
+  </filter>
+  <linearGradient id="a-6-9" x1="15.544" x2="1.4428" y1="1.2571" y2="15.647" gradientTransform="translate(-.027201 .0063)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff462b" offset="0"/>
+   <stop stop-color="#ff3c69" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="408.72" x2="408.92" y1="546.97" y2="500.84" gradientTransform="matrix(.37937 0 0 .37937 -146.49 -190.47)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ececec" offset="0"/>
+   <stop stop-color="#fefefe" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle transform="translate(4.005e-6 4.005e-6)" cx="8.4665" cy="8.4665" r="7.9377" filter="url(#filter11290-7)" opacity=".25" stroke-width=".14032"/>
+ <circle cx="8.4667" cy="8.4667" r="7.9379" fill="url(#a-6-9)" style="paint-order:normal"/>
+ <path d="m13.018 6.7181c-0.05152-0.61641-0.41906-1.3937-1.1744-1.4215-2.1091-0.14181-4.6078-0.18058-6.7551 0-0.6662 0.074667-1.1229 0.88614-1.1726 1.5026-0.10533 1.2948-0.10533 2.0316 0 3.3264 0.050357 0.61642 0.49546 1.4325 1.1738 1.5182 2.1728 0.14181 4.6593 0.16206 6.7552 0 0.65752-0.11402 1.1235-0.90177 1.1738-1.5182 0.10476-1.2953 0.10476-2.1126-7.59e-4 -3.4074zm-5.7093 3.3865v-3.3194l2.894 1.66z" fill="url(#d)" stroke-width=".49979"/>
+</svg>

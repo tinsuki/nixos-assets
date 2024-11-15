@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <filter id="filter11290-7" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.15875313"/>
+  </filter>
+  <clipPath id="clipPath-654281350-2">
+   <g transform="translate(0 -1004.4)">
+    <path transform="matrix(15.333 0 0 11.5 415 878.86)" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" fill="#1890d0"/>
+   </g>
+  </clipPath>
+  <linearGradient id="a" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(.53033 0 0 .53033 11.509 71.996)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#32b4ff" offset="0"/>
+   <stop stop-color="#3287ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle transform="translate(4.005e-6 4.005e-6)" cx="8.4665" cy="8.4665" r="7.9377" filter="url(#filter11290-7)" opacity=".25" stroke-width=".14032"/>
+ <circle cx="8.4665" cy="8.4665" r="7.9375" fill="url(#a)" style="paint-order:normal"/>
+ <g transform="matrix(.3561 0 0 .3561 -21.446 -16.105)" fill-opacity=".54436">
+  <g transform="translate(60,45)" fill-opacity=".54436">
+   <g clip-path="url(#clipPath-654281350-2)" fill-opacity=".54436">
+    <!-- color: #474747 -->
+    <g fill-opacity=".54436">
+     <path d="m27.719 11.652c-4.477-2.586-4.504 3.367-4.504 3.367l0.785 8.98 8.168-3.813s5.145-3 0.668-5.586c-1.383-0.797-2.398-0.816-3.148-0.457-0.066-0.824-0.586-1.695-1.969-2.496"/>
+     <path d="m24 24 3.813 8.168s3 5.145 5.582 0.668c0.797-1.383 0.813-2.398 0.457-3.148 0.828-0.066 1.699-0.586 2.5-1.969 2.582-4.477-3.371-4.504-3.371-4.504l-8.977 0.785"/>
+     <path d="m24 24-8.172 3.813s-5.141 3-0.668 5.582c1.383 0.797 2.402 0.813 3.148 0.457 0.066 0.828 0.586 1.699 1.969 2.5 4.477 2.582 4.504-3.371 4.504-3.371l-0.781-8.977"/>
+     <path d="m24 24-3.813-8.172s-3-5.141-5.586-0.668c-0.797 1.383-0.813 2.402-0.457 3.148-0.824 0.066-1.695 0.586-2.496 1.969-2.586 4.477 3.367 4.504 3.367 4.504l8.98-0.781"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

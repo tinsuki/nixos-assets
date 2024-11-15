@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter11290-7" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.15875313"/>
+  </filter>
+  <linearGradient id="a-6-9" x1="15.544" x2="1.4428" y1="1.2571" y2="15.647" gradientTransform="translate(-.027201 .0063)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff462b" offset="0"/>
+   <stop stop-color="#ff3c69" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1131" x1="4.4449" x2="9.3677" y1="6.4071" y2="6.4071" gradientTransform="matrix(1.4583 0 0 1.4583 -1.6052 -.87716)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ececec" offset="0"/>
+   <stop stop-color="#fefefe" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle transform="translate(4.005e-6 4.005e-6)" cx="8.4665" cy="8.4665" r="7.9377" filter="url(#filter11290-7)" opacity=".25" stroke-width=".14032"/>
+ <circle cx="8.4667" cy="8.4667" r="7.9379" fill="url(#a-6-9)" style="paint-order:normal"/>
+ <path d="m7.636 4.9391c-0.30607 0.085896-0.55245 0.42745-0.55245 0.75927v5.2604c-0.31036-0.17016-0.70895-0.23897-1.1222-0.12651-0.74568 0.20286-1.213 0.8585-1.0531 1.4642 0.15985 0.60571 0.89442 0.94403 1.6401 0.74112 0.59489-0.16184 1.005-0.61978 1.0704-1.1027l0.017432-4.9712 3.8672-1.0846v3.9228c-0.31036-0.17017-0.70894-0.23897-1.1222-0.12656-0.74567 0.20287-1.213 0.85854-1.0531 1.4643 0.15986 0.60574 0.89443 0.94402 1.6401 0.74116 0.5949-0.16184 1.005-0.61978 1.0704-1.1027l0.01749-6.4716c0-0.24882-0.14687-0.43497-0.34528-0.46999l-4.0744 1.1027z" fill="url(#linearGradient1131)" stroke-width=".72"/>
+</svg>
