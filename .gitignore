@@ -1,6 +1,6 @@
 # all files in assets/wallpapers execpt Furina1.jpeg, Furina2.jpeg, Furina3.jpeg
-assets
+assets/wallpapers
 
-!assets/Furina1.jpeg
-!assets/Furina2.jpeg
-!assets/Furina3.jpeg
+!assets/wallpapers/Furina1.jpeg
+!assets/wallpapers/Furina2.jpeg
+!assets/wallpapers/Furina3.jpeg
