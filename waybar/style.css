@@ -64,8 +64,29 @@ button:hover {
 #bluetooth,
 #cpu,
 #gpu-usage,
+#power-profiles-daemon,
 #pulseaudio {
   padding: 0 10px;
+}
+
+#power-profiles-daemon {
+  padding-right: 20px;
+}
+
+#power-profiles-daemon.performance {
+  color: @peach;
+}
+
+#power-profiles-daemon.balanced {
+  color: @sapphire;
+}
+
+#power-profiles-daemon.power-saver{
+  color: @teal;
+}
+
+#backlight {
+  color: @yellow;
 }
 
 #pulseaudio {
@@ -73,7 +94,7 @@ button:hover {
 }
 
 #network {
-  color: @yellow;
+  color: @teal;
 }
 
 #temperature {

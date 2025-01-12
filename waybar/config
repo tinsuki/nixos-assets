@@ -12,6 +12,8 @@
       "hyprland/window"
     ],
     "modules-right": [
+    "power-profiles-daemon",
+    "backlight",
     "battery",
     "pulseaudio",
     "network",
@@ -22,6 +24,18 @@
     "custom/gpu-usage",
     "clock",
     ],
+
+    "power-profiles-daemon": {
+      "format": "{icon}",
+      "tooltip-format": "Power profile: {profile}\nDriver: {driver}",
+      "tooltip": true,
+      "format-icons": {
+        "default": "",
+        "performance": "",
+        "balanced": "",
+        "power-saver": ""
+      }
+    },
     "hyprland/window": {
       "format": "{}",
       "max-length": 64,
@@ -110,4 +124,10 @@
         "tooltip-format-connected": "{device_enumerate}",
         "tooltip-format-enumerate-connected": "{device_alias}\t{device_address}"
     },
+    "backlight":{
+      "format": "{icon} {percent}%",
+      "format-icons": ["\udb80\udcde", "\udb80\udcdf", "\udb80\udce0"],
+      "on-scroll-up": "brightnessctl s +5%",
+      "on-scroll-down": "brightnessctl s 5%-"
+    }
 }
